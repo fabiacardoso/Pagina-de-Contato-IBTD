@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="36" height="35" viewBox="0 0 36 35">
-  <g id="telefone" transform="translate(-0.145 -0.336)">
-    <path id="phone" d="M23.14,17.983V21A2.008,2.008,0,0,1,20.951,23a19.874,19.874,0,0,1-8.667-3.083A19.583,19.583,0,0,1,6.259,13.9,19.874,19.874,0,0,1,3.176,5.189,2.008,2.008,0,0,1,5.174,3H8.187A2.008,2.008,0,0,1,10.2,4.727a12.894,12.894,0,0,0,.7,2.822,2.008,2.008,0,0,1-.452,2.119L9.171,10.944A16.068,16.068,0,0,0,15.2,16.969l1.275-1.275a2.008,2.008,0,0,1,2.119-.452,12.894,12.894,0,0,0,2.822.7,2.008,2.008,0,0,1,1.727,2.039Z" transform="translate(5.131 5.342)" fill="none" stroke="#458ec0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <rect id="Retângulo_36" data-name="Retângulo 36" width="36" height="35" transform="translate(0.145 0.336)" fill="none"/>
-  </g>
-</svg>
