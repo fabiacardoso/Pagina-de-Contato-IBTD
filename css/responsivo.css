@@ -1,0 +1,93 @@
+/*Estilo para tablets*/
+/* @media only screen and (min-width: 788px) and (max-width: 979px){
+
+
+
+    
+
+}Final do estilo para tablets */
+
+
+
+
+/*Estilo para smartphone*/
+@media only screen and (max-width: 787px) {
+
+/* Banner */
+
+.banner{
+    width: 100%;
+    height: 169px;
+    background: url("../img/contato-img/bg-mobile.png") no-repeat center;
+    background-size: cover;
+    padding-top: 60px;
+    text-align: center;
+}
+
+.banner h1 img{
+    max-width: 310px;
+    margin: 0 auto;
+       
+}
+
+/* Formulário */
+
+.contato-form input {
+	width: 120%;
+}
+
+.contato-form textarea {
+	width: 120%;
+}
+
+.contato-form button {
+	/* background: none; */
+    padding: 0 auto;
+}
+
+/* Redes Sociais */
+
+.contato{
+    padding-bottom: 10px;
+}
+
+
+/* Mapa */
+
+.contato_mapa{
+    padding: 10px 0;
+}
+
+.contato_mapa .icone-maps{
+    height: 90px;
+}
+
+.contato_mapa p{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.contato_mapa img{
+    width: 300px;
+    padding-bottom: 30px;
+    margin: 0 auto;
+}
+
+/* Footer */
+
+.copy {
+	width: 100%;
+	background: #458EC0;
+	padding: 20px 0;
+}
+
+.copy p{
+    text-align: center;
+    color:#ffffff;
+    font-size: 14px;
+	font-family: Georgia, "Times New Roman", serif;
+}
+
+
+
+}/* Final do estilo para smartphone */
